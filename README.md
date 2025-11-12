@@ -25,8 +25,8 @@ Simply input your available ingredients, and FridgeChef will generate delicious 
 
 **Backend (optional if implemented):**  
 - Node.js / Flask / Django (depending on your setup)  
-- RESTful APIs (e.g., Spoonacular API for recipes)  
-
+- RESTful APIs (e.g., Spoonacular API for recipes)
+- 
 **Database (if used):**  
 - MongoDB / Firebase / MySQL  
 
