@@ -1,0 +1,6 @@
+{
+  "name": "FridgeChef",
+  "description": "AI-Powered Recipe Recommendation Platform that helps you find delicious, waste-free recipes using the ingredients you already have at home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
