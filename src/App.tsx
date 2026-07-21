@@ -52,8 +52,6 @@ export default function App() {
   const [activeTab, setActiveTab] = useState<"recipes" | "mealplan" | "analytics" | "profile" | "favorites">("recipes");
   const [selectedRecipe, setSelectedRecipe] = useState<Recipe | null>(null);
   const [errorString, setErrorString] = useState<string | null>(null);
-
-  // Load User, Favorites, Search History and Analytics metadata
   useEffect(() => {
     fetchInitialData();
   }, []);
