@@ -23,7 +23,6 @@ import UserProfileSection from "./components/UserProfileSection";
 import DashboardAnalytics from "./components/DashboardAnalytics";
 import MealPlannerSection from "./components/MealPlannerSection";
 import RecipeDetailModal from "./components/RecipeDetailModal";
-
 const POPULAR_INGREDIENTS = [
   "Chicken", "Beef", "Pork", "Tofu", "Broccoli", "Tomato", "Onion", "Garlic", 
   "Ginger", "Potato", "Carrot", "Eggs", "Cheese", "Butter", "Milk", "Pasta", 
